@@ -1,5 +1,5 @@
 # Analoguhr
-Enables the Raspberry Pi to function as a clockwork for an ammeter instrument via the GPIO (electronic filters required)
+Enables the Raspberry Pi to function as a clockwork for three ammeter instruments via the GPIO (electronic filters required)
 
 
 Pin 11: hours  
