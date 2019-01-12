@@ -1,4 +1,4 @@
-# Analoguhr
+# Drehspulinstrument-Analoguhr
 Enables the Raspberry Pi to function as a clockwork for three ammeter instruments via the GPIO (electronic filters required)
 
 
